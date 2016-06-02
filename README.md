@@ -9,3 +9,10 @@ CherryPicker lets you visually browse a collection of items - and provide input 
 
 
 ### User Stories
+As a Walmart user, I am provided an opportunity to easily rate the products that I have recently received. 
+
+As a Walmart user, I can swipe the product left, right, bottom, up to rate the products. 
+
+As a Walmart user, I can press hard on the product to rate it 1 star.  
+
+As a Walmart user, I have an option to add comments to my product ratings. 
