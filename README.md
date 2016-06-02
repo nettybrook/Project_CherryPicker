@@ -5,8 +5,7 @@ CherryPicker lets you visually browse a collection of items - and provide input 
 
 
 ### Wireframes
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Image1 Description' width='' alt='Image1 Description' />
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Image2 Description' width='' alt='Image2 Description' />
+<img src='http://i.imgur.com/link/to/your/gif/cherrypicker_wires_v01' title='Image1 Description' width='' alt='Image1 Description' />
 
 
 ### User Stories
